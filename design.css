@@ -1,0 +1,84 @@
+.page
+{
+width:1500px;
+height:2000px;
+border-style:groove;
+}
+
+.headerpart
+{
+width:1500px;
+height:200px;
+border-style:groove;
+background-color:black;
+}
+
+.headerpart .a
+{
+margin:40px;
+padding:20px;
+width:900px;
+height:100px;
+border-style:groove;
+background-image:url("ip lab2/head.jpg");
+background-repeat:no-repeat;
+}
+
+.linkspart
+{
+width:1500px;
+height:30px;
+background-color:white;
+}
+
+.linkspart .b
+{
+color:grey;
+text-decoration:none;
+}
+
+.bodypart 
+{
+width:700px;
+height:1400px;
+border-style:groove;
+margin:250px;
+padding:130px;
+margin-top:40px;
+}
+
+.bodypart .d
+{
+width:600px;
+height:600px;
+background-image:url("ip lab2/green.jpg");
+margin-right:120px;
+}
+.bodypart .e
+{
+color:red;
+}
+.bodypart .f
+{
+color:black;
+}
+
+.bodypart .g
+{
+color:black;
+}
+
+.bodypart .h
+{
+color:black;
+}
+
+.bodypart .j
+{
+color:black;
+}
+
+
+
+
+
